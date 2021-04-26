@@ -1,0 +1,16 @@
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\bin\Release\SistemaRestaurante.exe.config
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\bin\Release\SistemaRestaurante.exe
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\bin\Release\SistemaRestaurante.pdb
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.csprojAssemblyReference.cache
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.Properties.Resources.resources
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.FormFuncionario.resources
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.Visao.FormItemPedido.resources
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.Visao.FormLogin.resources
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.Visao.FormPrincipal.resources
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.Visao.FormProduto.resources
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.Visao.FormVenda.resources
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.Visao.Relatório_de_Venda.resources
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.csproj.GenerateResource.cache
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.exe
+C:\Users\Rodney\Desktop\Códigos\C#\SistemaRestaurante\SistemaRestaurante\obj\Release\SistemaRestaurante.pdb
